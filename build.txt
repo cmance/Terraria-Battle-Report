@@ -1,3 +1,0 @@
-displayName = Battle Report
-author = mance
-version = 0.1
